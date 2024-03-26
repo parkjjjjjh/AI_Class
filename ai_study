@@ -1,0 +1,27 @@
+
+1. 인공지능의 하위 카테고리
+               <인공지능>
+                   |
+    <지도학습> <비지도학습> <강화학습>
+        |            |          | 
+ <분류><회귀>    <클러스터링>   
+
+  
+2. 분류(Classification)와 회귀(Regression)의 공통점과 차이점
+<공통점>
+- 입력된 특정 X값에 대응하여 출력되는 Y값을 예측하는게 목표
+- 분류(Classification)와 회귀(Regression)는 "지도학습"의 한 종류 
+<차이점>
+- 분류는 입력 데이터가 이산적인 값인 경우
+- 회귀는 입력 데이터가 연속적인 값인 경우
+
+
+  
+3. 분류(Classification)와 회귀(Regression)의 머신러닝 과정 
+
+4. 라이브러리 설명
+  - Numpy 와 Pandas의 차이
+
+  - Matplotlib과 Seaborn의 차이
+
+  - Scikitlearn과 Tensorflow(혹은 Pytorch)의 차이
